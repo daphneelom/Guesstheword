@@ -1,0 +1,50 @@
+Welcome to GuessTheWorldEnter the game difficulty level
+1. Easy
+2. Medium
+3. Difficult
+
+Level Easy selectedStarting the Game...The Word you need to guess has '5' charactersGuesses left: 10
+word: _  _  _  _  _
+
+Enter a Letter:  Good Guess !!
+Guesses left: 9
+word: h  _  _  _  _
+
+Enter a Letter:  Not in the word, Try Again !!
+Guesses left: 8
+word: h  _  _  _  _
+
+Enter a Letter:  Good Guess !!
+Guesses left: 7
+word: h  e  _  _  _
+
+Enter a Letter:  Good Guess !!
+Guesses left: 6
+word: h  e  l  _  _
+
+Enter a Letter:  Good Guess !!Guesses left: 5
+word: h  e  l  l  _
+
+Enter a Letter:  Not in the word, Try Again !!
+Guesses left: 4
+word: h  e  l  l  _
+
+Enter a Letter:  Not in the word, Try Again !!
+Guesses left: 3
+word: h  e  l  l  _
+
+Enter a Letter:  Not in the word, Try Again !!
+Guesses left: 2
+word: h  e  l  l  _
+
+Enter a Letter:  Not in the word, Try Again !!
+Guesses left: 1
+word: h  e  l  l  _
+
+Enter a Letter:  Good Guess !!
+
+Congratulations you win, Word is : hello
+
+Your Guess level is: 'Ok'
+
+Thanks for playing ....
